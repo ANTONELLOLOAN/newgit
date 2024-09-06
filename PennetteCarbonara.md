@@ -5,6 +5,6 @@ Ricetta italiana famosa in tutto il mondo.
 ## Ingrdienti:
 * Pennette
 * Uova
-* Pancetta
+* Guanciale
 * Pepe nero
 * Pecorino
